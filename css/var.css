@@ -1,0 +1,6 @@
+:root {
+  --color-white: #ffffff;
+  --color-white-grey: rgba(255, 255, 255, 0.86);
+  --color-grey-white: rgba(255, 255, 255, 0.75);
+  --color-depth-dark: #383A4C;
+}
