@@ -68,7 +68,7 @@
 
 @media (max-width: 1024px) {
   .footer-wrapper-list {
-    padding: 37px 3vh 49px;
+    padding: 40px 2.9vw 49px
   }
 
   .item-first {
@@ -87,6 +87,7 @@
     font-weight: 500;
     font-size: 12px;
     line-height: 17px;
+    padding-top: 2px;
   }
 
   .item-second {

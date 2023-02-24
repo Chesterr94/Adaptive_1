@@ -103,7 +103,7 @@
 @media (max-width: 1024px) {
   .header-block {
     background-image: url("/img/header/1024.jpg");
-    padding: 13px 0 35px;
+    padding: 10px 0 35px;
   }
 
   .header-block-list {
